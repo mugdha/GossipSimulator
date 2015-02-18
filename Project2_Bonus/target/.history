@@ -1,0 +1,23 @@
+exit
+publishLocal
+runMain gossip.project2_bonus 100 full gossip
+runMain gossip.project2_bonus 100 full push-sum
+runMain gossip.project2_bonus 100 full gossip
+publishLocal
+runMain gossip.project2_bonus 100 full gossip
+runMain gossip.project2_bonus 100 full push-sum
+publishLocal
+runMain gossip.project2_bonus 100 full push-sum
+publishLocal
+runMain gossip.project2_bonus 100 full gossip
+runMain gossip.project2_bonus 100 full push-sum
+publishLocal
+runMain gossip.project2_bonus 100 full push-sum
+runMain gossip.project2_bonus 100 line push-sum
+runMain gossip.project2_bonus 100 2d push-sum
+runMain gossip.project2_bonus 100 imp2d push-sum
+runMain gossip.project2_bonus 100 imp2d gossip
+runMain gossip.project2_bonus 100 2d gossip
+runMain gossip.project2_bonus 100 full gossip
+runMain gossip.project2_bonus 100 line gossip
+runMain gossip.project2_bonus 50 line gossip

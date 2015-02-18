@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m:: delivering :: default#project2_bonus_2.10;1.0 :: 1.0 :: release :: Mon Oct 06 21:11:24 IST 2014[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Mon Oct 06 21:11:24 IST 2014 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /home/stormcluster/scalaDOS/Project2_Bonus/target/scala-2.10/ivy-1.0.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (15ms)[0m
