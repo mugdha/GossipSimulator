@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mMain Scala API documentation to C:\Users\mchoudha\Desktop\Project2_54219168_55510961\Project2_54219168_55510961\Project2\target\scala-2.10\api...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mCalling Scaladoc with arguments:[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	C:\Users\mchoudha\Desktop\Project2_54219168_55510961\Project2_54219168_55510961\Project2\target\scala-2.10\api[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.7.0_51\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_51\jre\classes;C:\Users\mchoudha\.sbt\boot\scala-2.10.4\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\mchoudha\.ivy2\cache\com.typesafe.akka\akka-actor_2.10\jars\akka-actor_2.10-2.3.6.jar;C:\Users\mchoudha\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar;C:\Users\mchoudha\.ivy2\cache\com.typesafe.akka\akka-remote_2.10\jars\akka-remote_2.10-2.3.6.jar;C:\Users\mchoudha\.ivy2\cache\io.netty\netty\bundles\netty-3.8.0.Final.jar;C:\Users\mchoudha\.ivy2\cache\com.google.protobuf\protobuf-java\bundles\protobuf-java-2.5.0.jar;C:\Users\mchoudha\.ivy2\cache\org.uncommons.maths\uncommons-maths\jars\uncommons-maths-1.2.2a.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\mchoudha\Desktop\Project2_54219168_55510961\Project2_54219168_55510961\Project2\src\main\scala\gossip\bossActor.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\mchoudha\Desktop\Project2_54219168_55510961\Project2_54219168_55510961\Project2\src\main\scala\gossip\nodeActor.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\mchoudha\Desktop\Project2_54219168_55510961\Project2_54219168_55510961\Project2\src\main\scala\gossip\project2.scala[0m
+[0m[[33mwarn[0m] [0mthere were 2 feature warning(s); re-run with -feature for details[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0minfo[0m] [0mMain Scala API documentation successful.[0m

@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mPackaging C:\Users\mchoudha\Desktop\Project2_54219168_55510961\Project2_54219168_55510961\Project2\target\scala-2.10\project2_2.10-1.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	gossip\nodeActor.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\mchoudha\Desktop\Project2_54219168_55510961\Project2_54219168_55510961\Project2\src\main\scala\gossip\nodeActor.scala[0m
+[0m[[0mdebug[0m] [0m	gossip\bossActor.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\mchoudha\Desktop\Project2_54219168_55510961\Project2_54219168_55510961\Project2\src\main\scala\gossip\bossActor.scala[0m
+[0m[[0mdebug[0m] [0m	application.conf~[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\mchoudha\Desktop\Project2_54219168_55510961\Project2_54219168_55510961\Project2\src\main\resources\application.conf~[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\mchoudha\Desktop\Project2_54219168_55510961\Project2_54219168_55510961\Project2\src\main\resources\application.conf[0m
+[0m[[0mdebug[0m] [0m	gossip\project2.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\mchoudha\Desktop\Project2_54219168_55510961\Project2_54219168_55510961\Project2\src\main\scala\gossip\project2.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
